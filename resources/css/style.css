@@ -33,3 +33,9 @@ color:gray;
     text-align:right;
     color:gray;
 }
+
+img {
+    width:auto;
+    max-width: 100%;
+    height:auto;
+}
